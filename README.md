@@ -4,10 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/v1/src/thumbs/about-v1.png)
+![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/v1/src/thumbs/home-v1.png)
 
-
-![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/v1/src/thumbs/home-v1.png)
+![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/v1/src/thumbs/about-v1.png)
 
 ## Available Scripts
 
