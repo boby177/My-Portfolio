@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Update new component resume, pricing, blog, contact, and responsive the design
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshoots
+
+![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/v2/src/thumbs/home-v2.png)
+![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/v2/src/thumbs/testimonials-v2.png)
 
 ## Available Scripts
 
