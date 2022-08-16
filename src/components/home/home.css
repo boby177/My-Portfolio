@@ -9,6 +9,7 @@
 .intro {
   max-width: 540px;
   text-align: center;
+  z-index: 1;
 }
 
 .home__img {
@@ -154,4 +155,10 @@
 .s11 {
   bottom: 0.5%;
   right: 2%;
+}
+
+@media screen and (max-width: 1024px) {
+  .home__social-link {
+    font-size: 1.125rem;
+  }
 }
