@@ -29,7 +29,7 @@
 }
 
 .work__mask {
-    background: #56da82;
+    background: var(--container-color);
     position: absolute;
     left: 0;
     top: 0;
@@ -44,7 +44,7 @@
 }
 
 .work__category {
-    color: #fff;
+    color: rgb(0, 0, 0);
     background-color: var(--first-color);
     border-bottom-left-radius: 0.98rem;
     border-bottom-right-radius: 0.98rem;
@@ -58,7 +58,7 @@
 }
 
 .work__title {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: var(--h3-font-size);
     margin: 0 0 0.98rem;
     padding: 0 1.25rem;
@@ -75,7 +75,7 @@
     bottom: 1.5rem;
     left: 1.5rem;
     font-size: var(--h3-font-size);
-    background-color: #ffd15c;
+    background-color: #5ca0ff;
     height: 40px;
     width: 40px;
     cursor: pointer;

@@ -15,6 +15,10 @@
   transition: .3s;
 }
 
+.name__logo {
+  font-weight: bolder;
+}
+
 .nav__list {
   display: flex;
   flex-direction: column;

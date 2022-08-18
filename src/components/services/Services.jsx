@@ -1,30 +1,30 @@
 import React from 'react';
 import './services.css'
-import Image1 from '../../assets/service-1.svg'
-import Image2 from '../../assets/service-2.svg'
-import Image3 from '../../assets/service-3.svg'
+import Image1 from '../../assets/service-3.png'
+import Image2 from '../../assets/service-5.png'
+import Image3 from '../../assets/service-4.png'
 
 const data = [
     {
       id: 1,
-      image: Image1,
-      title: "UI/UX design",
-      description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
-    },
-    {
-      id: 2,
       image: Image2,
       title: "Web Development",
       description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+        "I can make website application for you using several frameworks i learned.",
+    },
+    {
+      id: 2,
+      image: Image3,
+      title: "Mobile Development",
+      description:
+        "Mobile application is very crucial for now, you can request to me for some mobile apps.",
     },
     {
       id: 3,
-      image: Image3,
-      title: "Photography",
+      image: Image1,
+      title: "Game Development",
       description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+        "I can make some simple game for you using html 5 or using video game engine like game maker.",
     },
   ];
   
@@ -32,7 +32,7 @@ const data = [
 const Services = () => {
     return (
     <section className="services container section" id='services'>
-        <h2 className="section__title">Services</h2>
+        <h2 className="section__title">Skill and Development</h2>
 
         <div className="services__container grid">
             {data.map(({id, image, title, description}) => {

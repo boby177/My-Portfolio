@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Image from "../../assets/avatar-1.svg";
+import Image from "../../assets/img-bob-1.png";
 import AboutBox from "./AboutBox";
 
 const About = () => {
@@ -14,9 +14,9 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea voluptatem, doloribus illo culpa ipsa nam explicabo vitae molestiae accusantium. At ex magnam possimus veniam aliquid et porro impedit numquam obcaecati.
+              IT programmer with solid technical and programming background, desire to always learn about new technologies, having skills in website and mobile programming.
             </p>
-            <a href="" className="btn">
+            <a href="http://shorturl.at/aoT89" className="btn" target="_blank">
                 Download CV
               </a>
           </div>
@@ -24,7 +24,7 @@ const About = () => {
             <div className="skills__data">
                 <div className="skills__title">
                     <h3 className="skills__name">Front-End Framework</h3>
-                    <span className="skills__number">Angular | React | Vue</span>
+                    <span className="skills__number">Angular | React | Flutter</span>
                 </div>
 
                 <div className="skills__bar front-end">

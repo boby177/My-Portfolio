@@ -8,9 +8,9 @@
   --first-color: hsl(353, 100%, 65%);
   --title-color: hsl(244, 24%, 26%);
   --text-color: hsl(244, 16%, 43%);
-  --body-color: hsl(258, 60%, 98%);
-  --container-color: #fff;
-
+  --body-color: hsl(211, 30%, 86%);
+  --container-color: hsl(190, 30%, 86%);
+  
   /* Font and Typography */
   /* .5rem = 8px | 1rem = 16px */
   --body-font: "Roboto Mono", monospace;

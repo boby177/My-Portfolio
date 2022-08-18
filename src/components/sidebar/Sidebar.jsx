@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg";
+import Logo from "../../assets/logo-b.png";
 
 const Sidebar = () => {
   const [toggle, showMenu] = useState(false)
@@ -44,11 +44,11 @@ const Sidebar = () => {
               </a>
             </li>
 
-            <li className="nav__item">
+            {/* <li className="nav__item">
               <a href="#blog" className="nav__link">
               <i className="icon-note"></i>
               </a>
-            </li>
+            </li> */}
 
             <li className="nav__item">
               <a href="#contact" className="nav__link">
