@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-DEMO : https://github.com/boby177/My-Portfolio
+DEMO : https://boby177.github.io/My-Portfolio/
 
 ## Screenshots
 
