@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# New features for contact component, sending email using emailjs api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots
+
+![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/v4/src/thumbs/contact-v4.png)
+
+![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/v4/src/thumbs/email-v4.png)
 
 ## Available Scripts
 
