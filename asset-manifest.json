@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.c979c876.css",
+    "main.js": "/My-Portfolio/static/js/main.9f4ea330.js",
+    "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/game-img-1.png": "/My-Portfolio/static/media/game-img-1.de859a06b16f27e0a732.png",
+    "static/media/kitchen-img-1.png": "/My-Portfolio/static/media/kitchen-img-1.f46996fb28f9cad29c7f.png",
+    "static/media/hydrotoring-img-1.png": "/My-Portfolio/static/media/hydrotoring-img-1.6bcfc8521981b74efbfe.png",
+    "static/media/foramu-img-1.png": "/My-Portfolio/static/media/foramu-img-1.29a80b8940c7917b1db4.png",
+    "static/media/blog-2.svg": "/My-Portfolio/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
+    "static/media/report-img-1.png": "/My-Portfolio/static/media/report-img-1.7af2e1d7596af22c5fc6.png",
+    "static/media/blog-img-1.png": "/My-Portfolio/static/media/blog-img-1.34623ebff6b5bfe77faf.png",
+    "static/media/blog-1.svg": "/My-Portfolio/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/blog-3.svg": "/My-Portfolio/static/media/blog-3.2b3b19d1ca3209f976198c3fd2418e16.svg",
+    "static/media/seyupo-img-1.png": "/My-Portfolio/static/media/seyupo-img-1.81a46023d2a5729cc989.png",
+    "static/media/img-bob-1.png": "/My-Portfolio/static/media/img-bob-1.6c4c08b0d6ae5bfcbeab.png",
+    "static/media/work-3.svg": "/My-Portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/avatar-2.svg": "/My-Portfolio/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/My-Portfolio/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/price-1.svg": "/My-Portfolio/static/media/price-1.b5f9838862632ad0cabb2d51d8a1f47a.svg",
+    "static/media/price-3.svg": "/My-Portfolio/static/media/price-3.e38b12b9fc0ac74980f5c43d470782e0.svg",
+    "static/media/price-2.svg": "/My-Portfolio/static/media/price-2.747a8d1acf93a30ba88da632fc45e2ce.svg",
+    "static/media/dots-bg.svg": "/My-Portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.c979c876.css.map": "/My-Portfolio/static/css/main.c979c876.css.map",
+    "main.9f4ea330.js.map": "/My-Portfolio/static/js/main.9f4ea330.js.map",
+    "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c979c876.css",
+    "static/js/main.9f4ea330.js"
+  ]
+}
