@@ -10,6 +10,7 @@ import Testimonials from './components/testimonials/Testimonials';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
 
+
 function App() {
   return (
     <>

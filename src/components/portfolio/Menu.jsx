@@ -1,12 +1,11 @@
 import Work1 from '../../assets/project-imgs/foramu-img-1.png'
 import Work2 from '../../assets/project-imgs/hydrotoring-img-1.png'
 import Work3 from '../../assets/project-imgs/report-img-1.png'
-import Work4 from '../../assets/work-4.svg'
+import Work4 from '../../assets/work-3.svg'
 import Work5 from '../../assets/project-imgs/seyupo-img-1.png'
-import Work6 from '../../assets/work-6.svg'
+import Work6 from '../../assets/project-imgs/game-img-1.png'
 import Work7 from '../../assets/project-imgs/blog-img-1.png'
 import Work8 from '../../assets/project-imgs/kitchen-img-1.png'
-import Work9 from '../../assets/work-3.svg'
 
 const Menu = [
     {
@@ -59,13 +58,7 @@ const Menu = [
       image: Work8,
       title: "B-Kitchen Booking Food App",
       category: "Website",
-    },
-    {
-      id: 9,
-      image: Work9,
-      title: "Some Mobile App",
-      category: "Mobile",
-    },
+    }
   ];
 
 export default Menu
