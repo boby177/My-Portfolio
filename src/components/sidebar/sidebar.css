@@ -50,8 +50,8 @@
   cursor: pointer;
   height: 40px;
   width: 45px;
-  background-color: var(--body-color);
-  border: 1px solid #e8dfec;
+  /* background-color: var(--body-color); */
+  /* border: 1px solid #e8dfec; */
   display: none;
   justify-content: center;
   align-items: center;
