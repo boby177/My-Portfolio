@@ -102,7 +102,7 @@
   position: absolute;
 }
 
-.s1 {
+/* .s1 {
   left: 2%;
   top: 10%;
 }
@@ -155,7 +155,7 @@
 .s11 {
   bottom: 0.5%;
   right: 2%;
-}
+} */
 
 @media screen and (max-width: 1024px) {
   .home__social-link {
