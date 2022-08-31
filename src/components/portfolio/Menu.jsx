@@ -13,51 +13,63 @@ const Menu = [
       image: Work1,
       title: "Foramu Millenials Forum",
       category: "Website",
+      link: "#",
     },
+    
     {
       id: 2,
       image: Work2,
       title: "Hydrotoring (Hydroponic Monitoring)",
       category: "Website",
+      link: "#",
     },
+
     {
       id: 3,
       image: Work3,
       title: "Report School Application",
       category: "Website",
+      link: "#",
     },
-    ,
+    
     {
       id: 4,
       image: Work4,
       title: "Dashboard Monitoring Smart Farm",
       category: "Mobile",
+      link: "#",
     },
-    ,
+    
     {
       id: 5,
       image: Work5,
       title: "SEYUPO (Secure Your Phone)",
       category: "Mobile",
+      link: "#",
     },
-    ,
+    
     {
       id: 6,
       image: Work6,
       title: "Visual Novel Game",
-      category: "Game",
+      category: "Game", 
+      link: "#",  
     },
+
     {
       id: 7,
       image: Work7,
       title: "Spy x Family Blog App",
       category: "Website",
+      link: "https://spxfamblog.herokuapp.com/",
     },
+    
     {
       id: 8,
       image: Work8,
       title: "B-Kitchen Booking Food App",
       category: "Website",
+      link: "https://b-kitchen.netlify.app/",
     }
   ];
 

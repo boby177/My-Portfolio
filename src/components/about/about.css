@@ -103,6 +103,10 @@
   font-size: 1.875rem;
 }
 
+.btn {
+  text-align: center;
+}
+
 @media screen and (max-width: 1024px) {
   .about__container {
     grid-template-columns: 720px;

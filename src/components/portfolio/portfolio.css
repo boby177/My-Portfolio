@@ -69,13 +69,13 @@
     opacity: 0;
 }
 
-.work__button {
+.work__link {
     color: #fff;
     position: absolute;
     bottom: 1.5rem;
     left: 1.5rem;
     font-size: var(--h3-font-size);
-    background-color: #5ca0ff;
+    /* background-color: #5ca0ff; */
     height: 40px;
     width: 40px;
     cursor: pointer;
@@ -86,7 +86,7 @@
     opacity: 0;
 }
 
-.work__card:hover .work__button {
+.work__card:hover .work__link {
     opacity: 1;
 }
 
