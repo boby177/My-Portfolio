@@ -16,7 +16,7 @@ const About = () => {
             <p className="about__description">
               IT programmer with solid technical and programming background, desire to always learn about new technologies, having skills in website and mobile programming.
             </p>
-            <a href="http://shorturl.at/aoT89" className="btn" target="_blank">
+            <a href="http://shorturl.at/aoT89" className="btn" target="_blank" rel="noreferrer noopener">
                 Download CV
               </a>
           </div>

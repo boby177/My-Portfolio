@@ -21,6 +21,8 @@ const Resume = () => {
                   desc={val.desc}
                 />
               );
+            } else {
+              return null;
             }
           })}
         </div>
@@ -37,6 +39,8 @@ const Resume = () => {
                   desc={val.desc}
                 />
               );
+            } else {
+              return null;
             }
           })}
         </div>
