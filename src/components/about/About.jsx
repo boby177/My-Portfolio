@@ -24,7 +24,7 @@ const About = () => {
             <div className="skills__data">
                 <div className="skills__title">
                     <h3 className="skills__name">Front-End Framework</h3>
-                    <span className="skills__number">Angular | React | Flutter</span>
+                    <span className="skills__number">Angular | React | Flutter | Next </span>
                 </div>
 
                 <div className="skills__bar front-end">
@@ -35,7 +35,7 @@ const About = () => {
             <div className="skills__data">
                 <div className="skills__title">
                     <h3 className="skills__name">Back-End Framework</h3>
-                    <span className="skills__number">Node Express | Laravel | Django</span>
+                    <span className="skills__number">Node JS (Express, KOA) | Laravel </span>
                 </div>
 
                 <div className="skills__bar back-end">
