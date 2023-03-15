@@ -20,8 +20,8 @@ const Data = [
       category: "experience",
       icon: "icon-briefcase",
       year: "2022 - present",
-      title: "Junior Developer",
-      desc: "I worked as Junior Developer at WGS Company my experience is built some website using nodejs, react, and angular.",
+      title: "Developer",
+      desc: "I worked as Developer at WGS and Emveep Company my experience is built some website using nodejs, react, angular, graphql, and more.",
     },
     {
       id: 5,

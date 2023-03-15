@@ -83,6 +83,11 @@
   background-color: rgb(67, 72, 207);
 }
 
+.others {
+  width: 100%;
+  background-color: rgb(64, 64, 72);
+}
+
 .about__boxes {
   grid-template-columns: repeat(4, 1fr);
   column-gap: 1.875rem;
