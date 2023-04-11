@@ -1,4 +1,4 @@
-import Work1 from "../../assets/project-imgs/bioma-img-1.png";
+import Work1 from "../../assets/project-imgs/bioma-img-2.png";
 import Work2 from "../../assets/project-imgs/bca-img-1.png";
 import Work3 from "../../assets/project-imgs/foramu-img-1.png";
 import Work4 from "../../assets/project-imgs/hydrotoring-img-1.png";
@@ -8,24 +8,32 @@ import Work7 from "../../assets/project-imgs/seyupo-img-1.png";
 import Work8 from "../../assets/project-imgs/game-img-1.png";
 import Work9 from "../../assets/project-imgs/blog-img-1.png";
 import Work10 from "../../assets/project-imgs/kitchen-img-1.png";
+import Work11 from "../../assets/project-imgs/fishtail-img.png";
 
 const Menu = [
   {
     id: 1,
+    image: Work11,
+    title: "Fishtail Trade Finance",
+    category: "Website",
+    link: "https://fishtail.ai/",
+  },
+  {
+    id: 2,
     image: Work1,
     title: "Bioma Loan Product App",
     category: "Website",
     link: "https://app.bioma.id/",
   },
   {
-    id: 2,
+    id: 3,
     image: Work2,
     title: "BCA Pavo Fraud Detection",
     category: "Website",
     link: "https://bcapav.stagingapps.net/#/auth/login",
   },
   {
-    id: 3,
+    id: 4,
     image: Work3,
     title: "Foramu Millenials Forum",
     category: "Website",
@@ -33,7 +41,7 @@ const Menu = [
   },
 
   {
-    id: 4,
+    id: 5,
     image: Work4,
     title: "Hydrotoring (Hydroponic Monitoring)",
     category: "Website",
@@ -41,7 +49,7 @@ const Menu = [
   },
 
   {
-    id: 5,
+    id: 6,
     image: Work5,
     title: "Report School Application",
     category: "Website",
@@ -49,7 +57,7 @@ const Menu = [
   },
 
   {
-    id: 6,
+    id: 7,
     image: Work6,
     title: "Dashboard Monitoring Smart Farm",
     category: "Mobile",
@@ -57,7 +65,7 @@ const Menu = [
   },
 
   {
-    id: 7,
+    id: 8,
     image: Work7,
     title: "SEYUPO (Secure Your Phone)",
     category: "Mobile",
@@ -65,7 +73,7 @@ const Menu = [
   },
 
   {
-    id: 8,
+    id: 9,
     image: Work8,
     title: "Visual Novel Game",
     category: "Game",
@@ -73,7 +81,7 @@ const Menu = [
   },
 
   {
-    id: 9,
+    id: 10,
     image: Work9,
     title: "Spy x Family Blog App",
     category: "Website",
@@ -81,7 +89,7 @@ const Menu = [
   },
 
   {
-    id: 10,
+    id: 11,
     image: Work10,
     title: "B-Kitchen Booking Food App",
     category: "Website",
