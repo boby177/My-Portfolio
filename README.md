@@ -8,7 +8,7 @@ DEMO :
 
 ![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/main/src/assets/project-imgs/thumb-main1.png)
 
-![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/main/src/assets/project-imgs/thumb-main1.png)
+![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/main/src/assets/project-imgs/thumb-main2.png)
 
 ## Available Scripts
 
