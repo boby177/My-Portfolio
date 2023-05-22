@@ -1,14 +1,14 @@
-# New features for contact component, sending email using emailjs api
+# My Portfolio App Built by React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-DEMO : https://boby177.github.io/My-Portfolio/
+DEMO : 
 
 ## Screenshots
 
-![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/v4/src/thumbs/contact-v4.png)
+![thumb1](https://raw.githubusercontent.com/boby177/My-Portfolio/main/src/assets/project-imgs/thumb-main1.png)
 
-![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/v4/src/thumbs/email-v4.png)
+![thumb2](https://raw.githubusercontent.com/boby177/My-Portfolio/main/src/assets/project-imgs/thumb-main1.png)
 
 ## Available Scripts
 
