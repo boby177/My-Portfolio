@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-DEMO : 
+Live : https://main.dx3gtmjz4os19.amplifyapp.com/
 
 ## Screenshots
 
