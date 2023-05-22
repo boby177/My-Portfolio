@@ -9,6 +9,9 @@ import Work8 from "../../assets/project-imgs/game-img-1.png";
 import Work9 from "../../assets/project-imgs/blog-img-1.png";
 import Work10 from "../../assets/project-imgs/kitchen-img-1.png";
 import Work11 from "../../assets/project-imgs/fishtail-img.png";
+import Work12 from "../../assets/project-imgs/movie-img.png";
+import Work13 from "../../assets/project-imgs/bob-rental-img.png";
+import Work14 from "../../assets/project-imgs/weather-app-img.png";
 
 const Menu = [
   {
@@ -94,6 +97,30 @@ const Menu = [
     title: "B-Kitchen Booking Food App",
     category: "Website",
     link: "https://b-kitchen.netlify.app/",
+  },
+
+  {
+    id: 12,
+    image: Work12,
+    title: "React Movie App",
+    category: "Website",
+    link: "https://movie-app-client-tau.vercel.app/",
+  },
+
+  {
+    id: 13,
+    image: Work13,
+    title: "Bob Rental App",
+    category: "Website",
+    link: "https://bob-rental-app.vercel.app/",
+  },
+
+  {
+    id: 14,
+    image: Work14,
+    title: "Weather App",
+    category: "Website",
+    link: "https://pwa-weather-app-sepia.vercel.app/",
   },
 ];
 
