@@ -33,7 +33,7 @@ const Menu = [
     image: Work2,
     title: "BCA Pavo Fraud Detection",
     category: "Website",
-    link: "https://bcapav.stagingapps.net/#/auth/login",
+    link: "#",
   },
   {
     id: 4,
